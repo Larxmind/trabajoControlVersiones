@@ -19,17 +19,26 @@ public class Circulo implements FiguraGeometrica
     {
         this.radio = radio;
     }
-
+    /**
+     * 
+     * Método consultor del atributo radio
+     * @return radio del círculo
+     */
     public double getRadio() 
     {
         return radio;
     }
-
+    /**
+     * Método modificador del atributo rario
+     * @param radio radio del círculo
+     */
     public void setRadio(double radio) 
     {
         this.radio = radio;
     }
-
+    /**Método consultor del atributo areaRadio
+     * @return área del círculo
+     */
     public double getAreaRadio() 
     {
         return areaRadio;

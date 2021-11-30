@@ -7,7 +7,17 @@ package geometria;
 
 /**
  *
- * @author javier
+ * @author Juan (Larxmind)
+ * 29/11/21
+ * V 1.01
+ */
+
+/**
+ * Clase donde se definen los atributos y métodos para calcular el aŕea de un
+ * rectángulo
+ * @author alumnado
+ * @version 1.0
+ * @since 30/12/2021
  */
 public class Rectangulo implements FiguraGeometrica
 {

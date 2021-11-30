@@ -8,12 +8,15 @@ package geometria;
 /**
  *
  * @author javier
+ * 29/11/2021
+ * v 1.01
  */
 public class Geometria {
 
     /**
      * @param args the command line arguments
      */
+    //Clase principal del programa
     public static void main(String[] args) 
     {
         //probar clases cálculo áreas figuras geométricas        

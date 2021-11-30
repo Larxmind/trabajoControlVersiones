@@ -9,13 +9,14 @@ package geometria;
  *
  * @author javier
  */
+//Atributos de la clase Triangulo, base, altura, areaTriangulo
 public class Triangulo implements FiguraGeometrica
 {
     private double base;
     private double altura;
     private double areaTriangulo;
     
-
+//Construntor de la clase Triangulo, recibe los atributos base, altura 
     public Triangulo(double base, double altura) 
     {
         this.base = base;
